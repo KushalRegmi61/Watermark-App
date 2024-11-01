@@ -59,5 +59,12 @@ A watermarking application built in Python using Tkinter for the GUI and PIL (Pi
 3. Choose a save location, and the image will be saved with the watermark.
 
 
+## Project Demo
+
+Below is a demonstration of the application in action. The GIF showcases the watermarking features and how users can add text to images effectively.
+
+![Application Demo](assets/demo.gif)
+
+
 
 
