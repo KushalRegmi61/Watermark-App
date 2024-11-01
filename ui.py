@@ -283,7 +283,7 @@ class UI:
 
         # Set x and y coordinates for the text position
         # Calculate the coordinates for the text position on the original image
-        x_cor = int(x * w_multiplier) - 40
+        x_cor = int(x * w_multiplier) - 45
         y_cor = int(y * h_multiplier) - 20
 
 
