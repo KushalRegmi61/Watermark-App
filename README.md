@@ -51,8 +51,6 @@ A watermarking application built in Python using Tkinter for the GUI and PIL (Pi
 │
 ├── ui.py                  # Main file containing the GUI and application logic
 │
-├── readme.md              # Documentation file for the application
-│
 ├── Fonts/                 # Directory for custom fonts used in watermark text
 │   ├── CatShop.ttf        # Custom font for playful designs
 │   ├── ComiStans.ttf      # Fun comic-style font
@@ -62,7 +60,7 @@ A watermarking application built in Python using Tkinter for the GUI and PIL (Pi
 │
 └── assets/                # Directory for storing images and other resources
     ├── demo.gif           # Demonstration GIF for the application
-    └── ...                # Additional resource files
+
 ```
 
 ---
