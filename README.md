@@ -38,24 +38,34 @@ A watermarking application built in Python using Tkinter for the GUI and PIL (Pi
 4. Drag and position the watermark on the image.
 5. Preview the watermark, then save the image.
 
+
+
+---
+
+## Folder Structure
+
+```
 /WaterMark App
 │
 ├── main.py                # Entry point for the application
 │
 ├── ui.py                  # Main file containing the GUI and application logic
 │
-├── readme.md
+├── readme.md              # Documentation file for the application
 │
 ├── Fonts/                 # Directory for custom fonts used in watermark text
-│   ├── CatShop.ttf        
-│   ├── ComiStans.ttf   
-│   ├── NewSushi.ttf
-│   ├── LissainDidon.ttf
-│   └── FunkySignature.ttf               
+│   ├── CatShop.ttf        # Custom font for playful designs
+│   ├── ComiStans.ttf      # Fun comic-style font
+│   ├── NewSushi.ttf       # Elegant sushi-themed font
+│   ├── LissainDidon.ttf    # Stylish serif font
+│   └── FunkySignature.ttf  # Unique signature-style font
 │
 └── assets/                # Directory for storing images and other resources
-    ├── demo.gif       
+    ├── demo.gif           # Demonstration GIF for the application
+    └── ...                # Additional resource files
+```
 
+---
 
   
 ## How to Add Text
