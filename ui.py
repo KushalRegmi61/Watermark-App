@@ -35,11 +35,11 @@ class UI:
 
         #Adding fonts
         self.FONTS = {
-                "Comic Sans MS": "DAY_85_Watermark/Fonts/ComicSansMS.ttf",
-                "CatShop": "DAY_85_Watermark/Fonts/CatShop.ttf",
-                "FunkySignature": "DAY_85_Watermark/Fonts/FunkySignature.ttf",
-                "LissainDidone": "DAY_85_Watermark/Fonts/LissainDidone.ttf",
-                "NewSushi": "DAY_85_Watermark/Fonts/NewSushi.ttf",
+            "Comic Sans MS": "Fonts/ComicSansMS.ttf",
+            "CatShop": "Fonts/CatShop.ttf",
+            "FunkySignature": "Fonts/FunkySignature.ttf",
+            "LissainDidone": "Fonts/LissainDidone.ttf",
+            "NewSushi": "Fonts/NewSushi.ttf",
             }
 
         # Add text button
@@ -283,7 +283,7 @@ class UI:
 
         # Set x and y coordinates for the text position
         # Calculate the coordinates for the text position on the original image
-        x_cor = int(x * w_multiplier) - 45
+        x_cor = int(x * w_multiplier) - 40
         y_cor = int(y * h_multiplier) - 20
 
 
