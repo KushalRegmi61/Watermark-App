@@ -1,4 +1,4 @@
-```markdown
+
 # Watermark App
 
 A watermarking application built in Python using Tkinter for the GUI and PIL (Pillow) for image processing. This app allows users to add customizable text as a watermark to images, with adjustable positioning, color, font, and preview features.
