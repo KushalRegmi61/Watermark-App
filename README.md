@@ -40,10 +40,11 @@ A watermarking application built in Python using Tkinter for the GUI and PIL (Pi
 
 ## Folder Structure
 
+- **main.py**: Entry point for the application.
 - **ui.py**: Main file with the GUI and application logic.
 - **Fonts/**: Directory containing custom fonts for watermark text.
-- **images/**: Placeholder for any sample or saved images.
-
+- **assets/**: Directory for storing images and other resources.
+  
 ## How to Add Text
 
 1. Click **Add Text** to open the text customization window.
@@ -57,13 +58,6 @@ A watermarking application built in Python using Tkinter for the GUI and PIL (Pi
 2. Enter a filename in the popup window.
 3. Choose a save location, and the image will be saved with the watermark.
 
-## Contributing
 
-Contributions are welcome! Fork this repository, make changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-```
 
 
